@@ -1,0 +1,83 @@
+
+h1 {
+  color: white;
+  background: rgb(92, 97, 240);
+  font-family: 'Cabin', sans-serif;
+  font-size: 45px;
+  padding-left: 15px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+h2, h3, h4, h5 {
+  font-family: 'Old Standard TT', serif;
+  font-size: 30px;
+}
+
+p {
+  font-size: 20px;
+  font-family: 'Old Standard TT', serif;
+}
+
+ul{
+  font-family: 'Old Standard TT', serif;
+  font-size: 20px;
+  margin-top: 35px;
+  margin-bottom: 40px;
+}
+
+body{
+  background:rgb(236, 238, 238);
+
+}
+
+.des{
+  width: 65%;
+  float: right;
+  margin-top:5%;
+  margin-left: 5%;
+  margin-right: 5%;
+
+}
+
+#intro{
+  background: white;
+  padding: 10px 20px 10px 30px;
+}
+
+#f{
+  border-bottom: 2px solid black;
+}
+
+#s{
+  background: white;
+  padding: 10px 20px 10px 30px;
+}
+
+.logo{
+  float:left;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.menu{
+  float: left;
+  width: 5%;
+  margin: 10px 10px 20px 70px;
+  padding: 15px 40px 15px 40px;
+  background: white;
+  color: white;
+  background: rgba(11, 19, 18, 0.64);
+  font-family: 'Cabin', sans-serif;
+  font-size: 15px;
+  clear: left;
+
+}
+
+#avatar{
+  border-radius: 50%;
+  float: left;
+  margin: 5%;
+  display: block;
+
+}
